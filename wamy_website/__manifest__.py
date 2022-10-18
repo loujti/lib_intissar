@@ -26,9 +26,9 @@
         'data/website_menu_data.xml',
         # Views
         'views/website_slider.xml',
-        'views/wamy_statistics.xml',
+        # 'views/wamy_statistics.xml',
         'view/website_homepage.xml',
-        'view/students_scholarship.xml',
+        # 'view/students_scholarship.xml',
         
     ],
 
@@ -37,7 +37,7 @@
     'assets': {
         'web.assets_frontend': [
             'wamy_website/static/src/css/style.css',
-            'wamy_website/static/src/js/validation_email.js']},
+           ]},
 
 
     'images': ['static/description/icon.png'],
