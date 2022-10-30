@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <template id="wamy_slider_homepage"
-              inherit_id="website.homepage" name="Wamy Homepage">
+              inherit_id="website.homepage" name="Librarie Homepage">
 
         <xpath expr="//div[@id='wrap']" position="replace">
 
