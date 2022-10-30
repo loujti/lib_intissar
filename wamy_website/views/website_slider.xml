@@ -36,7 +36,7 @@
             <field name="view_mode">tree,form</field>
 
         </record>
-            <menuitem id="slider_website" parent="website.menu_website_configuration" name="Wamy Website" sequence="3" />
+            <menuitem id="slider_website" parent="website.menu_website_configuration" name="Librairie Website" sequence="3" />
             <menuitem id="slider_website_slider" parent="wamy_website.slider_website" name="Sliders" action="slider_website_view"/>
             <menuitem id="setting" parent="wamy_website.slider_website" name="Setting"/>
              
