@@ -22,12 +22,12 @@
 <!--         <field name="sequence" type="int">82</field>-->
 <!--     </record>-->
     
-    <record id="menu_wamy_institution" model="website.menu">
+ <!--   <record id="menu_wamy_institution" model="website.menu">
          <field name="name">Institution Registration</field>
          <field name="url">/institution/new</field>
          <field name="parent_id" ref="website.main_menu"/>
          <field name="sequence" type="int">90</field>
-     </record>
+     </record>-->
     
      
       </data>
